@@ -3,7 +3,7 @@ package searchmachine;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 
-// Admin Tooll
+// Admin Tool
 @Path("/admin")
 public class Admin {
 
